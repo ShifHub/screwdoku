@@ -4,6 +4,7 @@ GEM
     colorize (0.8.1)
 
 PLATFORMS
+  x86_64-darwin-20
   x86_64-linux
 
 DEPENDENCIES
